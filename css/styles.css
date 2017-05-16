@@ -1,0 +1,10 @@
+.container{
+  width: 1275px;
+}
+.nice{
+  background-color: orange;
+  text-align: center;
+}
+p{
+  padding-left: 20px;
+}
